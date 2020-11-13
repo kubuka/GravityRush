@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2227f0456f40e1f4995c467bf60e6a8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bloodSplash: {fileID: 3102180184049651871, guid: fd86cc9c4d61e494caa72f45fa88d005,
+      type: 3}
+  - loseScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
